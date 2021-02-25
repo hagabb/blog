@@ -1,6 +1,6 @@
 # About
 
-This is a place for me to post blogs.
+This is a place for me to post blogs about Intel&reg; software products.
 
 ## Permissions
 
