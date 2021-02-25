@@ -15,7 +15,6 @@ Similarly, CMake uses variables to change compilers, e.g.:
 
 If your project uses a cloud continuous integration (CI) system like GitHub Actions Intel makes that easy too: [Intel® oneAPI CI Samples](https://github.com/oneapi-src/oneapi-ci).
 ## Intel Software Delivers Great Performance on Intel Hardware
-<![endif]-->
 
 A real open-source application demonstrates how the Intel programming tools improve performance on Intel hardware. The compute-intensive [RELION](https://www3.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page) application from the MRC Laboratory of Molecular Biology at the University of Cambridge is used to solve biomolecular structures, [like the COVID-19 virus](https://www.nature.com/articles/s41586-020-2665-2), from cryo-electron microscopy images. The default RELION configuration (which uses the GNU compilers and the FFTW library) is compared to the configuration that uses the Intel oneAPI HPC Toolkit to target Intel hardware.
 
