@@ -1,6 +1,6 @@
 # About
 
-This is a place for me to post blogs about Intel&reg; software products.
+This is a place for me to post example codes and blogs about Intel&reg; software products.
 
 ## Permissions
 
