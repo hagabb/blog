@@ -4,7 +4,7 @@ This is a place for me to post example codes and blogs about Intel&reg; software
 
 ## Permissions
 
-I work for Intel&reg; Corporation so it's safe to say that they own retain the copyright to anything that I write as an Intel employee. 
+I work for Intel&reg; Corporation so it's safe to say that they own the copyright to anything that I write as an Intel employee. 
 
 # Bio
 
