@@ -181,7 +181,10 @@ program solve_batched_linear_systems
 
             cycle_time = dble(end_time - start_time) / dble(clock_precision)
             print *, 'Computation completed successfully', cycle_time, 'seconds'
-            total_time = total_time + cycle_time
+            ! Do not include the JIT compilation overhead of the first cycle.
+            if (c > 1) then
+                total_time = total_time + cycle_time
+            endif
         endif
     enddo
 
